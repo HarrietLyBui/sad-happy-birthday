@@ -4,7 +4,7 @@ A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to
 - Sing along with you given that you sing the first part of the song. </br>
 - Sing a duet with you.</br></br>
 
-<b> Video demo: </b>/br>/br>
+<b> Video demo: </b></br></br>
 Sing along skill:
 + Happy birthday to you: https://photos.app.goo.gl/K1v1TeavvGwwAiCq6
 + Yesterday: https://photos.app.goo.gl/XM3vKYNh9iNfRtHC9
