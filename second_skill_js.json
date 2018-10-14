@@ -1,0 +1,58 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "sing together",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "YesterdayFirst",
+                    "slots": [],
+                    "samples": [
+                        "Yesterday"
+                    ]
+                },
+                {
+                    "name": "YesterdaySecond",
+                    "slots": [],
+                    "samples": [
+                        "Oh I believe in yesterday Suddenly"
+                    ]
+                },
+                {
+                    "name": "SomewhereOverTheRainBowND",
+                    "slots": [],
+                    "samples": [
+                        "Somewhere over the rain bow"
+                    ]
+                },
+                {
+                    "name": "SomewhereOverTheRainBowRD",
+                    "slots": [],
+                    "samples": [
+                        "Somewhere over the rainbow Bluebirds fly"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "sing along",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "NoIntent",
+                    "slots": [],
+                    "samples": [
+                        "no",
+                        "nah"
+                    ]
+                },
+                {
+                    "name": "HappyBirthdayCutIntent",
+                    "slots": [],
+                    "samples": [
+                        "happy birthday"
+                    ]
+                },
+                {
+                    "name": "HappyBirthdayIntent",
+                    "slots": [],
+                    "samples": [
+                        "Happy birthday to you"
+                    ]
+                },
+                {
+                    "name": "Yesterday",
+                    "slots": [],
+                    "samples": [
+                        "yesterday"
+                    ]
+                },
+                {
+                    "name": "SomewhereOverTheRainBow",
+                    "slots": [],
+                    "samples": [
+                        "Somewhere over the rainbow"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
