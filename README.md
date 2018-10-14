@@ -4,10 +4,10 @@
  Sing along with you given that you sing the first part of the song. </br>
  Sing a duet with you.</br></br>
 
-- Finished a complete simple and presentable working prototype of the skills with three sample songs: 
- Happy Birthday covered by Celine Dion 
- Yesterday by the Beatles covered by Samia Abreu 
- Over the rainbow covered by Foy
+- Finished a complete simple and presentable working prototype of the skills with three sample songs: </br>
+ Happy Birthday covered by Celine Dion </br>
+ Yesterday by the Beatles covered by Samia Abreu </br>
+ Over the rainbow covered by Foy</br>
 
 <b> Video demo: </b></br></br>
 Sing along skill:
