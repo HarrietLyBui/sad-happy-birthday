@@ -17,7 +17,7 @@ logging.getLogger("flask_ask").setLevel(logging.DEBUG)
 
 @ask.launch
 def singduet():
-    r = randint(0, 3)
+    r = randint(0, 2)
     if ( r == 0):
         welcome_msg = render_template('Singduetready')
     elif ( r == 1):
@@ -28,7 +28,7 @@ def singduet():
 
 @ask.intent("NoIntent")
 def next_round():
-    r = randint(0, 3)
+    r = randint(0, 2)
     if ( r == 0):
         msg = render_template('no_intent')
     elif ( r == 1):
