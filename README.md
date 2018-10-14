@@ -4,6 +4,11 @@ A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to
 - Sing along with you given that you sing the first part of the song. </br>
 - Sing a duet with you.</br></br>
 
+- Finished a complete simple and presentable working prototype of the skills with three sample songs: 
++ Happy Birthday covered by Celine Dion 
++ Yesterday by the Beatles covered by Samia Abreu 
++ Over the rainbow covered by Foy
+
 <b> Video demo: </b></br></br>
 Sing along skill:
 + Happy birthday to you: https://photos.app.goo.gl/K1v1TeavvGwwAiCq6
