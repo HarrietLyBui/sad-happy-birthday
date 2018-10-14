@@ -1,0 +1,53 @@
+Singalongready: Ok, I'll sing along with you. Whenever you ready.
+Singalongready1: Whenever you ready.
+Singalongready2: Ok, go ahead.
+Singduetready: Ok, I'll sing with you. Whenever you ready
+Singduetready1: Whenever you ready.
+Singduetready2: Ok, go ahead.
+fallback: |
+  <speak>
+      I wasn't able to understand what you sang.
+      Could you say again ?
+  </speak>
+
+no_intent: I knew it. Your singing sucks anyway
+no_intent1: Sure, no problem
+no_intent2: I hate you
+happy_birthday_full_cut: 
+  <speak>
+    <audio src='https://www.jovo.tech/audio/W5cdQlJf-happy-birthday1-cut1sent.mp3'/>
+  </speak>
+happy_birthday1:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/v7gokQtS-happy-birthday1-louder-cuthp.mp3'/>
+  </speak>
+
+Yesterday1:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/wFavPSf3-yesterday-cut-1.mp3'/>
+  </speak>
+
+Yesterday21:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/ufPuNFQO-yesterday-cut2-p1.mp3'/>
+  </speak>
+
+Yesterday22:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/LnVDjDkb-yesterday-cut2-fixed.mp3'/>
+  </speak>
+
+SomeWhereOverTheRainBow:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/D35jnZLp-over-the-rainbow-cut1.mp3'/>
+  </speak>
+
+SomeWhereOverTheRainBow21:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/q12SAh37-over-the-rainbow-cut2a.mp3'/>
+  </speak>
+
+SomeWhereOverTheRainBow22:
+  <speak>
+    <audio src='https://www.jovo.tech/audio/vsYIdDXL-over-the-rainbow-cut2b.mp3'/>
+  </speak> 
