@@ -5,12 +5,12 @@ A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to
 - Sing a duet with you.</br></br>
 
 <b> Video demo </b>
-- Sing along skill:
+Sing along skill:
 + Happy birthday to you: https://photos.app.goo.gl/K1v1TeavvGwwAiCq6
 + Yesterday: https://photos.app.goo.gl/XM3vKYNh9iNfRtHC9
 + Over the rainbow (and handle failed request):https://photos.app.goo.gl/1Xcee9uS3kZfiuhh8
 
-- Sing together (duet) skill:
+Sing together (duet) skill:
 + Yesterday: https://photos.app.goo.gl/7EYm184sprdcXkLX6
 + Over the rainbow: https://photos.app.goo.gl/RDHnuxr9s5V7KkyX7
 
@@ -37,7 +37,7 @@ Oh, yesterday came suddenly</br>
 <b>Over the rainbow </b></br></br>
 
 User: Somewhere over the rainbow </br>
-Alexa: </br>
+Alexa: 
 Way up high </br>
 And the dreams that you dream of </br>
 Once in a lullaby</br>
