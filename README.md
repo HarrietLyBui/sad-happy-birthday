@@ -1,5 +1,5 @@
 <b>Description: </b></br></br>
-A HackUmass 2018 Project: 
+A HackUmass 2018 Project by Trung Nguyen and Ly (Harriet) Bui: 
 
 - A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to: </br>
  Sing a song that you forget the name of but remember some lyrics. </br>
