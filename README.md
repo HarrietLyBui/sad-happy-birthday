@@ -1,4 +1,6 @@
 <b>Description: </b></br></br>
+A HackUmass 2018 Project: 
+
 - A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to: </br>
  Sing a song that you forget the name of but remember some lyrics. </br>
  Sing along with you given that you sing the first part of the song. </br>
