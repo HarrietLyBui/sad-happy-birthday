@@ -15,7 +15,7 @@ A skill prototype of a social robot, voice assistant, Alexa Echo, who is able to
 + Over the rainbow: https://photos.app.goo.gl/RDHnuxr9s5V7KkyX7
 
 <b>Inspiration: </b></br></br>
-Have you ever only remembered some lyrics of a song but not a song’s name? Have you ever wish to have a companion that may sing with you and be always available when nobody else is? Voice assistant devices such as Amazon echo have the ability to solve these problems and assist human beings in a more natural way than having us clicking buttons. Therefore, we would like to build a social robot that may sing a song to you even though you are not able to remember its name and may even sing a duet with you.</br></br>
+Have you ever only remembered some lyrics of a song but not the song’s name? Have you ever wished to have a companion that may sing with you and be always available when nobody else is? Voice assistant devices such as Amazon Echo have the ability to solve these problems and assist human beings in a more natural way than having us clicking buttons. Therefore, we would like to build a social robot that may sing a song to you even though you are not able to remember the song's name and may even sing a duet with you.</br></br>
 
 <b> Alexa’s Echo sing-off feature: </b> </br></br>
 - Has the user sing a song in your natural voice and recognize the song the user sings </br>
