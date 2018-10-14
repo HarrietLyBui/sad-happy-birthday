@@ -4,28 +4,28 @@ Responds to user’s sing-off request after the user asks Alexa to sing along or
 “Alexa, sing along.” if user wants to sing only the first part of the song 
 “Alexa, sing together.” if user wants to sing part of them song while Alexa sings the other parts. See following scripts: 
 
-<b>Yesterday:</b>
+<b>Yesterday:</b></br></br>
 
-User: Yesterday 
-Alexa: all my troubles seemed so far away 
-Now it looks as though they're here to stay
-User: Oh, I believe in yesterday 
-Suddenly 
-Alexa: I'm not half the man I used to be 
-There's a shadow hanging over me.
-Oh, yesterday came suddenly
+User: Yesterday </br>
+Alexa: all my troubles seemed so far away </br>
+Now it looks as though they're here to stay</br>
+User: Oh, I believe in yesterday </br>
+Suddenly </br>
+Alexa: I'm not half the man I used to be </br>
+There's a shadow hanging over me.</br>
+Oh, yesterday came suddenly</br>
 
-<b>Over the rainbow </b>
+<b>Over the rainbow </b></br></br>
 
-User: Somewhere over the rainbow 
-Alexa: 
-Way up high 
-And the dreams that you dream of 
-Once in a lullaby
-User: Somewhere over the rainbow 
-Bluebirds fly
-Alexa: And the dreams that you dream of 
-Dreams really do come true
-Allows you to have Alexa to sing the rest of the song or sing a duet with the user. 
-Starts singing the song after the user stops at a certain part of the songs whether it is in the middle of a sentence or the end of a sentence. 
-Handle failed request naturally.
+User: Somewhere over the rainbow </br>
+Alexa: </br>
+Way up high </br>
+And the dreams that you dream of </br>
+Once in a lullaby</br>
+User: Somewhere over the rainbow </br>
+Bluebirds fly</br>
+Alexa: And the dreams that you dream of </br>
+Dreams really do come true</br>
+Allows you to have Alexa to sing the rest of the song or sing a duet with the user. </br>
+Starts singing the song after the user stops at a certain part of the songs whether it is in the middle of a sentence or the end of a sentence. </br>
+Handle failed request naturally.</br>
