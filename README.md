@@ -30,7 +30,7 @@ Alexa: all my troubles seemed so far away </br>
 Now it looks as though they're here to stay</br>
 User: Oh, I believe in yesterday </br>
 Suddenly </br>
-Alexa: I'm not half the man I used to be </br>
+Alexa: I'm not half the girl I used to be </br>
 There's a shadow hanging over me.</br>
 Oh, yesterday came suddenly</br>
 
